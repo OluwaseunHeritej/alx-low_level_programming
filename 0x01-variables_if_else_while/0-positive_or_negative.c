@@ -6,6 +6,8 @@
  *
  * return: Always 0 
  */
+iint main(void)
+{
 int n;
 
 srand(time(0));
