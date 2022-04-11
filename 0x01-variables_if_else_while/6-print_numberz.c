@@ -7,10 +7,10 @@
 
 int main(void)
 {
-int n = 48;
-while (n <= 57)
+int n;
+while (n < 10)
 {
-putchar(n);
+printf("%d", n);
 n += 1;
 }
 printf("\n");
