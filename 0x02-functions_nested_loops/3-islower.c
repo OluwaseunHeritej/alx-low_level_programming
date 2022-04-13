@@ -2,7 +2,7 @@
 
 /**
  * _islower - Entry point
- * loop
+ * @c - A value
  * Return: 0
  */
 
