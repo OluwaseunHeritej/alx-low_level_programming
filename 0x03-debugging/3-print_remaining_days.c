@@ -2,12 +2,12 @@
 #include "main.h"
 
 /**
- * print_remaining_days - Takes date
- * left in the year, taking new year into consideration
- * @month: An int
- * @day: An int
- * @year: An int
- * Return: 0
+ * print_remaining_days - takes a date and prints how many days are
+ * left in the year, taking new year into account
+ * @month:month in number format 
+ * @day: day of month
+ * @year: year
+ * Return: zero
  */
 
 void print_remaining_days(int month, int day, int year)
