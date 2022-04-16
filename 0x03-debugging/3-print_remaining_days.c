@@ -2,7 +2,8 @@
 #include "main.h"
 
 /**
- * print_remaining_days - Entry point
+ * print_remaining_days - Takes date
+ * left in the year, taking new year into consideration
  * @month: An int
  * @day: An int
  * @year: An int
