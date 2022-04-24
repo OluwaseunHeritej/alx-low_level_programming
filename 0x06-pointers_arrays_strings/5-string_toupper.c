@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * string_toupper entry point
+ * string_toupper - entry point
  * @str: string
  * Return: char
  */
